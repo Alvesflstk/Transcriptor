@@ -18,5 +18,5 @@ Trancriptor é uma aplicação Python que utiliza a API da AssemblyAI para trans
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/mago.git
-   cd mago
+   git clone git@github.com:Alvesflstk/Transcriptor.git
+
