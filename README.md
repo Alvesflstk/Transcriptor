@@ -20,3 +20,6 @@ Trancriptor é uma aplicação Python que utiliza a API da AssemblyAI para trans
    ```bash
    git clone git@github.com:Alvesflstk/Transcriptor.git
 
+View Aplication
+
+<img src="https://github.com/Alvesflstk/Transcriptor/assets/111323514/bc7aaf19-0841-4540-a23c-793ffc71813f">
